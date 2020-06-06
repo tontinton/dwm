@@ -54,3 +54,8 @@ dkms.conf
 # dwm
 dwm
 config.h
+*.rej
+*.orig
+
+# env
+.vscode
